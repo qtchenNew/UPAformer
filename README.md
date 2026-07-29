@@ -23,7 +23,7 @@ The complete code will be released immediately upon acceptance of the paper.
 UPAformer_code/
 ├── main.py                         # Training, validation, testing, and experiment loops
 ├── Embedding/
-│   └── ARMPE.py                    # ARMNorm and ARMPE modules
+│   └── ARMPE.py                    # ARMNorm and ARMPE
 ├── models/
 │   ├── Diagnositic_model.py        # Diagnostic-model wrapper
 │   ├── UPAformer.py                # UPAformer architecture and prediction heads
